@@ -20,8 +20,8 @@ for (let i = 0; i < arr2.length; i++) {
 //task 3
 
 let arr3 = [],
-    result = 0,
-    coint = 0;
+    result = 0;
+    
 for (let i = 23; i <= 57; i++) {
     result += i;
     arr3.push(i);
